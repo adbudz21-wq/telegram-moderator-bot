@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Replace with your Telegram ID
-ADMIN_ID = 123456789  
+ADMIN_ID = 5734988616  
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 
